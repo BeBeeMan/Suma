@@ -12,3 +12,5 @@ int main()
 		b = a;
 	}
 }
+
+//https://pl.spoj.com/problems/SUMA/
